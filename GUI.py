@@ -26,7 +26,7 @@ class MongoDBICTesterGUI:
         self.port_var = tk.StringVar(value="COM4")
         self.baudrate_var = tk.StringVar(value="9600")
         self.mongo_uri_var = tk.StringVar(
-            value="mongodb+srv://Group23:12345678Dr@cluster0.mh3csnt.mongodb.net/?appName=Cluster0")
+            value="mongodb+srv://Group23:<db_password>@cluster0.mh3csnt.mongodb.net/?appName=Cluster0")
         self.db_name_var = tk.StringVar(value="ic_tester")
         self.collection_name_var = tk.StringVar(value="ic_database")
 
@@ -806,3 +806,4 @@ if __name__ == "__main__":
     import tkinter.simpledialog
 
     main()
+
