@@ -345,6 +345,7 @@ Similarity = 100 / (1 + SSE) %
 - **Add New IC**: Manual database entry
 - **View Database**: Browse all stored ICs
 
+
 ## 👥 Team
 
 - Faress Farrag
@@ -353,3 +354,8 @@ Similarity = 100 / (1 + SSE) %
 - Ahmed Hossam
 
 **Supervisor**: Dr. Hossam El-Din Moustafa
+
+
+## 📚️ content drive
+
+https://drive.google.com/drive/u/1/folders/15dxTtdAfdbfrDmxfM95Eg7QcgDFA
