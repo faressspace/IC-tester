@@ -1,0 +1,23 @@
+# IC Tester - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Serial Communication
+pyserial>=3.5
+
+# Data Visualization
+matplotlib>=3.5.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# MongoDB Database Driver
+pymongo>=4.0.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Note: tkinter is included with Python on Windows and most Linux distributions
+# If tkinter is missing on Linux, install with:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# Arch: sudo pacman -S tk
