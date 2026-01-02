@@ -122,8 +122,8 @@ pip install Pillow
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ic-tester.git
-cd ic-tester
+git clone https://github.com/faressspace/Ic-tester.git
+cd Ic-tester
 ```
 
 ### 2. Install Python Dependencies
